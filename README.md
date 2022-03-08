@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carlos9998
-- 👀 I’m a Luau Scripter.
+- 💻 Python & Luau
 - 🌱 I’m currently developing my skills.
 - 📫 How to reach me: Carlos9998yt#4520 in Discord.
 
