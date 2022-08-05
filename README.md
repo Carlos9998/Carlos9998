@@ -1,5 +1,5 @@
 - 👋 I am @Carlos9998
-- 💻 Python & Lua
+- 💻 Python, Lua & HTML5
 - 🌱 I’m currently developing my skills.
 - 📫 How to reach me: Carlos9998yt#4520 in Discord.
 
